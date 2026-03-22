@@ -1,0 +1,9 @@
+Flask
+flask-cors
+scikit-learn
+tensorflow
+keras
+opencv-python-headless
+numpy
+pandas
+requests
